@@ -1,0 +1,1 @@
+/home/asx/kicad/mod/mod.mod
